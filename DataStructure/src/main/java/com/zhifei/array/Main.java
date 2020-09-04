@@ -9,6 +9,8 @@ public class Main {
         }
         System.out.println(arr);
 
+        System.out.println("新添加的");
+
         arr.removeLast();
         arr.removeLast();
         arr.removeLast();
